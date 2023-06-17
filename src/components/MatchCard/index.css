@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.match-card-item {
+  list-style: none;
+  margin: 15px;
+}
+.recent-match-details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 330px;
+  height: 500px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #0f172a;
+}
+.logo-container {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.recent-match-competing-team-logo {
+  width: 130px;
+  margin-top: 20px;
+}
+.big-image-logo {
+  width: 85px;
+  margin-top: 20px;
+}
+.recent-match-competing-team {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  font-weight: lighter;
+  width: 250px;
+  text-align: center;
+}
+.recent-match-results {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 17px;
+  text-align: center;
+  width: 250px;
+}
+.green {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  color: #18ed66;
+}
+.red {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  color: #e31a1a;
+}

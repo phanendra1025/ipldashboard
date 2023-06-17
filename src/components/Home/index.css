@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.ipl-logo {
+  width: 35px;
+}
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.app-name-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.app-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  margin-left: 10px;
+  font-size: 45px;
+}
+.team-cards-container {
+  padding-left: 0px;
+  width: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}

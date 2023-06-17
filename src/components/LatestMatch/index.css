@@ -1,0 +1,102 @@
+/* Write your CSS here */
+.latest-match-container {
+  width: 75%;
+  margin-top: 20px;
+}
+.latest-matches-text {
+  align-self: flex-start;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  margin-top: 30px;
+}
+.latest-match-details-container {
+  display: flex;
+  background-color: #0f172a;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+  width: 100%;
+}
+.competing-team-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 25px;
+  width: 250px;
+}
+.competing-team-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 100;
+  margin: 0px;
+}
+.date {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 25px;
+}
+.venue {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.result {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.competing-team-logo {
+  width: 260px;
+}
+.match-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: right;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  width: 250px;
+}
+.first-innings-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  text-align: right;
+  font-size: 20px;
+}
+.first-innings {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  margin: 0px;
+}
+.second-innings-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}
+.second-innings {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  margin: 0px;
+}
+.man-of-the-match-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}
+.man-of-the-match {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  margin: 0px;
+}
+.umpires-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}
+.umpires {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  margin: 0px;
+}
